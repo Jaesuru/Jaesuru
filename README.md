@@ -23,5 +23,5 @@
 **He/Him**
 
 ## ⚡ Fun Fact
-**I type decently fast, and I prefer using Caps Lock instead of the Shift key for capitalization. 😆**
+**I type decently fast (130wpm, ahem), and I prefer using Caps Lock instead of the Shift key for capitalization. 😆**
 

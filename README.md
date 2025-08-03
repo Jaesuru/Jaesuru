@@ -8,6 +8,8 @@
 **Mobile Development:** Swift & Xcode
 <br>
 **Game Development:** Gameplay design & mechanics
+<br>
+**IT/Cybersecurity:** Learning CompTIA A+ Objectives and Materials
 
 ## 💞️ Collaboration
 **I’m looking to collaborate on projects where I can apply my skills in a meaningful way to contribute to society. Whether it’s web, mobile, or game-related, I’m always open to learning and working with others!**
